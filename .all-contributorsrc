@@ -2,7 +2,7 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
+  "imageSize": 40,
   "commit": false,
   "contributors": [
     {
@@ -16,9 +16,18 @@
         "code",
         "mentoring"
       ]
+    },
+    {
+      "login": "moses2117",
+      "name": "moses2117",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78763930?v=4",
+      "profile": "https://github.com/moses2117",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 15,
   "projectName": "img-store",
   "projectOwner": "yakkomajuri",
   "repoType": "github",
